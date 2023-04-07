@@ -2,21 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
     <parent>
+        <artifactId>website-frontend</artifactId>
         <groupId>com.qinweizhao</groupId>
-        <artifactId>qwz-website</artifactId>
         <version>0.0.1</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>website-frontend</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>website-frontend-portal</artifactId>
 
 
-    <modules>
-        <module>website-frontend-admin</module>
-        <module>website-frontend-portal</module>
-    </modules>
 </project>

@@ -1,4 +1,4 @@
-package com.qinweizhao.website;
+package com.qinweizhao.site;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

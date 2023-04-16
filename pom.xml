@@ -5,15 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.qinweizhao</groupId>
-    <artifactId>qwz-website</artifactId>
+    <artifactId>qwz-site</artifactId>
     <version>0.0.1</version>
 
     <packaging>pom</packaging>
 
     <modules>
-        <module>website-frontend</module>
-        <module>website-backend</module>
-        <module>website-resource</module>
+        <module>site-frontend</module>
+        <module>site-backend</module>
+        <module>site-resource</module>
     </modules>
 
 

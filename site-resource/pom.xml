@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.qinweizhao</groupId>
-        <artifactId>qwz-website</artifactId>
+        <artifactId>qwz-site</artifactId>
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>website-resource</artifactId>
+    <artifactId>site-resource</artifactId>
 
-    <name>website-resource</name>
-    <description>website-resource</description>
+    <name>site-resource</name>
+    <description>site-resource</description>
 
 </project>
